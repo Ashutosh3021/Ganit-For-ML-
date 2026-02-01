@@ -36,10 +36,10 @@ Recommended: pair theory with Python/NumPy implementations, visualizations (3Blu
 ## Intermediate Understanding (Practical Implementation – ML-Relevant)
 
 ### Linear Algebra Intermediate
-- [ ] Eigenvalues and eigenvectors (intuition + computation)
-- [ ] LU Decomposition (basics and purpose)
-- [ ] Singular Value Decomposition (SVD) – very important!
-- [ ] Applications: PCA intuition via SVD, low-rank approximation
+- [ X ] Eigenvalues and eigenvectors (intuition + computation)
+- [ X ] LU Decomposition (basics and purpose)
+- [ X ] Singular Value Decomposition (SVD) – very important!
+- [ X ] Applications: PCA intuition via SVD, low-rank approximation
 
 ### Probability & Statistics Intermediate
 - [ ] Central Limit Theorem (why it matters in ML)
