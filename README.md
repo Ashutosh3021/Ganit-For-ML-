@@ -42,7 +42,7 @@ Recommended: pair theory with Python/NumPy implementations, visualizations (3Blu
 - [ X ] Applications: PCA intuition via SVD, low-rank approximation
 
 ### Probability & Statistics Intermediate
-- [ ] Central Limit Theorem (why it matters in ML)
+- [ X ] Central Limit Theorem (why it matters in ML)
 - [ ] Discrete probability distributions (Bernoulli, Binomial, Poisson)
 - [ ] Continuous probability distributions (Uniform, Normal/Gaussian, Exponential)
 - [ ] Hypothesis testing: null/alternative, p-value, significance level
